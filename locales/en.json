@@ -1,0 +1,32 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "We’re a full-service creative agency specializing in 2D animation, 3D motion graphics, and LED billboard design. With a focus on storytelling and visual impact, we help brands stand out—from screen to skyline.",
+    "main_title_first": "Flawless 3D Motion.",
+    "main_title_second": "Precision-Driven.Deadline",
+    "we_offer": "<a>We offer creative and</a><b>innovative solutions to help your</b> <c> brand stand out </c>",
+    "partners" : "Meet Our Partners",
+    "projects" : "our projects",
+    "team" : "Our team, your vision, endless possibilities"
+  },
+  "Metadata": {
+    "title": "Corner"
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "work": "Work",
+    "partners": "Partners",
+    "lets_talk": "Let's Talk"
+  },
+  "letsTalk": {
+    "choose_service": "Choose Service",
+    "full_name": "Full name",
+    "email": "Email",
+    "phone": "phone",
+    "message" : "Message",
+    "send": "Send",
+    "title": "Let's  <br></br> work <br></br> together"
+  }
+}
+ 
